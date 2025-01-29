@@ -104,3 +104,5 @@ npm install @nestjs/typeorm typeorm mysql2
 nest generate module users
 nest generate service users
 nest generate controller users
+
+npm run start:dev
